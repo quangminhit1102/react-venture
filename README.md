@@ -1,2 +1,2 @@
 # react-venture
-Evon-dev Course
+Evondev React Course
